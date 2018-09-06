@@ -1,0 +1,8 @@
+[19-Oct-2016 22:53:25 America/Sao_Paulo] PHP Warning:  mktime() expects parameter 5 to be long, string given in /home/jorna150/public_html/novoins/arquivos/php/ajax/gradua/semanal.php on line 8
+[20-Oct-2016 11:14:34 America/Sao_Paulo] PHP Warning:  mktime() expects parameter 5 to be long, string given in /home/jorna150/public_html/novoins/arquivos/php/ajax/gradua/excluir.php on line 14
+[20-Oct-2016 11:14:34 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/jorna150/public_html/novoins/arquivos/php/ajax/gradua/excluir.php on line 17
+[20-Oct-2016 11:15:27 America/Sao_Paulo] PHP Warning:  mktime() expects parameter 5 to be long, string given in /home/jorna150/public_html/novoins/arquivos/php/ajax/gradua/excluir.php on line 14
+[20-Oct-2016 11:15:27 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/jorna150/public_html/novoins/arquivos/php/ajax/gradua/excluir.php on line 17
+[20-Oct-2016 11:16:02 America/Sao_Paulo] PHP Warning:  mktime() expects parameter 5 to be long, string given in /home/jorna150/public_html/novoins/arquivos/php/ajax/gradua/excluir.php on line 14
+[20-Oct-2016 11:16:02 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/jorna150/public_html/novoins/arquivos/php/ajax/gradua/excluir.php on line 17
+[22-Oct-2016 23:13:41 America/Sao_Paulo] PHP Warning:  mktime() expects parameter 5 to be long, string given in /home/jorna150/public_html/novoins/arquivos/php/ajax/gradua/semanal.php on line 8

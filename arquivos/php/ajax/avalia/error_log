@@ -1,0 +1,2 @@
+[24-Oct-2016 15:48:21 America/Sao_Paulo] PHP Warning:  mktime() expects parameter 5 to be long, string given in /home/jorna150/public_html/novoins/arquivos/php/ajax/avalia/semanal.php on line 8
+[24-Oct-2016 15:57:07 America/Sao_Paulo] PHP Warning:  mktime() expects parameter 5 to be long, string given in /home/jorna150/public_html/novoins/arquivos/php/ajax/avalia/semanal.php on line 8

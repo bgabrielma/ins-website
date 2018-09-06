@@ -1,0 +1,28 @@
+[06-Oct-2016 04:05:34 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/jorna150/public_html/novoins/arquivos/php/ajax/metas/carrega.php on line 16
+[06-Oct-2016 07:03:02 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/jorna150/public_html/novoins/arquivos/php/ajax/metas/instrucao.php on line 52
+[06-Oct-2016 07:35:41 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_array() on array in /home/jorna150/public_html/novoins/arquivos/php/ajax/metas/instrucao.php on line 173
+[06-Oct-2016 07:36:28 America/Sao_Paulo] PHP Fatal error:  Call to a member function fetch_array() on array in /home/jorna150/public_html/novoins/arquivos/php/ajax/metas/instrucao.php on line 173
+[06-Oct-2016 13:35:30 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/jorna150/public_html/novoins/arquivos/php/ajax/metas/instrucao.php on line 188
+[06-Oct-2016 13:42:57 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/jorna150/public_html/novoins/arquivos/php/ajax/metas/instrucao.php on line 191
+[06-Oct-2016 13:52:23 America/Chicago] PHP Parse error:  syntax error, unexpected '$semana' (T_VARIABLE) in /home/jorna150/public_html/novoins/arquivos/php/ajax/metas/instrucao.php on line 170
+[06-Oct-2016 15:53:03 America/Sao_Paulo] PHP Warning:  mktime() expects parameter 5 to be long, string given in /home/jorna150/public_html/novoins/arquivos/php/ajax/metas/instrucao.php on line 170
+[06-Oct-2016 15:53:03 America/Sao_Paulo] PHP Warning:  mktime() expects parameter 5 to be long, string given in /home/jorna150/public_html/novoins/arquivos/php/ajax/metas/instrucao.php on line 170
+[06-Oct-2016 15:53:03 America/Sao_Paulo] PHP Warning:  mktime() expects parameter 5 to be long, string given in /home/jorna150/public_html/novoins/arquivos/php/ajax/metas/instrucao.php on line 170
+[06-Oct-2016 15:53:03 America/Sao_Paulo] PHP Warning:  mktime() expects parameter 5 to be long, string given in /home/jorna150/public_html/novoins/arquivos/php/ajax/metas/instrucao.php on line 170
+[06-Oct-2016 15:53:03 America/Sao_Paulo] PHP Warning:  mktime() expects parameter 5 to be long, string given in /home/jorna150/public_html/novoins/arquivos/php/ajax/metas/instrucao.php on line 170
+[06-Oct-2016 15:53:03 America/Sao_Paulo] PHP Warning:  mktime() expects parameter 5 to be long, string given in /home/jorna150/public_html/novoins/arquivos/php/ajax/metas/instrucao.php on line 170
+[06-Oct-2016 15:53:03 America/Sao_Paulo] PHP Warning:  mktime() expects parameter 5 to be long, string given in /home/jorna150/public_html/novoins/arquivos/php/ajax/metas/instrucao.php on line 170
+[06-Oct-2016 15:53:03 America/Sao_Paulo] PHP Warning:  mktime() expects parameter 5 to be long, string given in /home/jorna150/public_html/novoins/arquivos/php/ajax/metas/instrucao.php on line 170
+[06-Oct-2016 15:53:03 America/Sao_Paulo] PHP Warning:  mktime() expects parameter 5 to be long, string given in /home/jorna150/public_html/novoins/arquivos/php/ajax/metas/instrucao.php on line 170
+[06-Oct-2016 15:53:03 America/Sao_Paulo] PHP Warning:  mktime() expects parameter 5 to be long, string given in /home/jorna150/public_html/novoins/arquivos/php/ajax/metas/instrucao.php on line 170
+[06-Oct-2016 15:53:03 America/Sao_Paulo] PHP Warning:  mktime() expects parameter 5 to be long, string given in /home/jorna150/public_html/novoins/arquivos/php/ajax/metas/instrucao.php on line 170
+[06-Oct-2016 15:53:03 America/Sao_Paulo] PHP Warning:  mktime() expects parameter 5 to be long, string given in /home/jorna150/public_html/novoins/arquivos/php/ajax/metas/instrucao.php on line 170
+[06-Oct-2016 15:53:03 America/Sao_Paulo] PHP Warning:  mktime() expects parameter 5 to be long, string given in /home/jorna150/public_html/novoins/arquivos/php/ajax/metas/instrucao.php on line 170
+[06-Oct-2016 15:53:03 America/Sao_Paulo] PHP Warning:  mktime() expects parameter 5 to be long, string given in /home/jorna150/public_html/novoins/arquivos/php/ajax/metas/instrucao.php on line 170
+[06-Oct-2016 15:53:03 America/Sao_Paulo] PHP Warning:  mktime() expects parameter 5 to be long, string given in /home/jorna150/public_html/novoins/arquivos/php/ajax/metas/instrucao.php on line 170
+[06-Oct-2016 15:53:03 America/Sao_Paulo] PHP Warning:  mktime() expects parameter 5 to be long, string given in /home/jorna150/public_html/novoins/arquivos/php/ajax/metas/instrucao.php on line 170
+[06-Oct-2016 15:53:03 America/Sao_Paulo] PHP Warning:  mktime() expects parameter 5 to be long, string given in /home/jorna150/public_html/novoins/arquivos/php/ajax/metas/instrucao.php on line 170
+[06-Oct-2016 21:30:34 America/Sao_Paulo] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jorna150/public_html/novoins/arquivos/php/ajax/metas/instrucao.php on line 195
+[06-Oct-2016 21:32:52 America/Sao_Paulo] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jorna150/public_html/novoins/arquivos/php/ajax/metas/instrucao.php on line 189
+[06-Oct-2016 19:52:57 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/jorna150/public_html/novoins/arquivos/php/ajax/metas/instrucao.php on line 220
+[09-Oct-2016 04:57:00 America/Chicago] PHP Parse error:  syntax error, unexpected 'AND' (T_LOGICAL_AND) in /home/jorna150/public_html/novoins/arquivos/php/ajax/metas/tfi.php on line 104
